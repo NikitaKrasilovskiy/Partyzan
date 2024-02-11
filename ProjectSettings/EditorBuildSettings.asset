@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Preloader.unity
+    guid: 6291c98773e8d9642a5e8fb8a34a9da5
+  - enabled: 1
+    path: Assets/Scenes/Mobile/Home.unity
+    guid: 2dbda52846efd49d2abae89b74d0501f
+  - enabled: 1
+    path: Assets/Scenes/Mobile/Campaign.unity
+    guid: 2082e8115ba653844afdd615ef29bbb6
+  - enabled: 1
+    path: Assets/Scenes/Mobile/Battle.unity
+    guid: e0cab95df28e9d943afb6af53244ef71
+  - enabled: 0
+    path: Assets/Scenes/Standalone/Home-PC.unity
+    guid: 6d3c768f82226b747917b83c30b1e86a
+  - enabled: 0
+    path: Assets/Scenes/Standalone/Campaign-PC.unity
+    guid: 2bf729c7daf8c24498cdfde133ed7f06
+  - enabled: 0
+    path: Assets/Scenes/Editor/LoginEditor.unity
+    guid: 4c82f1f76e83dad409e2060a9d1782fd
+  - enabled: 0
+    path: Assets/Scenes/Editor/CampaignEditor.unity
+    guid: c4e9295c12115fa4db231bbc7bc53e0f
+  - enabled: 0
+    path: Assets/Scenes/Editor/EditorCardList.unity
+    guid: df418510a00ced14384963375bf2db35
+  - enabled: 0
+    path: Assets/Scenes/Editor/EditCard.unity
+    guid: 8aa8a13e124cdac4fa49e92b44608459
+  - enabled: 0
+    path: Assets/Scenes/Editor/BackpacksEditor.unity
+    guid: af5deb84c6313fa48b0b777e4f8c4e44
+  - enabled: 0
+    path: Assets/Scenes/Editor/RulesEditor.unity
+    guid: 565ab5aeea758e3418981925d2a388e1
+  - enabled: 0
+    path: Assets/Scenes/Editor/LevelsEditor.unity
+    guid: 52df3295fc92dd142921606f46a31c8e
+  - enabled: 0
+    path: Assets/Scenes/Editor/UsersEditor.unity
+    guid: cfa95720872f1bf4591cb88ab021f612
+  - enabled: 0
+    path: Assets/Scenes/Editor/CouponsEditor.unity
+    guid: 625a6af875493e24f846a21dcb1aef4a
+  - enabled: 0
+    path: Assets/Scenes/Editor/ArenaEditor.unity
+    guid: 3efc4c2b489652046945064ebf1a498c
+  - enabled: 0
+    path: Assets/Scenes/Editor/ChatEditor.unity
+    guid: 246190244af7ca9418db341aa72662d2
+  - enabled: 0
+    path: Assets/Scenes/Editor/UserEditor.unity
+    guid: e02f135faf15a664ca0e8d831f49375b
+  - enabled: 0
+    path: Assets/Scenes/Editor/PostEditor.unity
+    guid: a8048c0e811345d418d1a713772c455d
+  m_configObjects: {}

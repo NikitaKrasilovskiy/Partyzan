@@ -1,0 +1,128 @@
+Osiągnięcie 1
+Podnieść poziom do 3
+Osiągnięcie 2
+Podnieść poziom do 10
+Osiągnięcie 3
+Podnieść poziom do 25
+Osiągnięcie 4
+Podnieść poziom do 50
+Osiągnięcie 5
+Podnieść poziom do 75
+Osiągnięcie 6
+Podnieść poziom do 101
+Osiągnięcie 7
+Otwórz komórkę dla kart nr3
+Osiągnięcie 8
+Otwórz komórkę dla kart nr4
+Osiągnięcie 9
+Otwórz komórkę dla kart nr5
+Osiągnięcie 10
+Zbierz pełną talię za dowolny naród
+Osiągnięcie 11
+Ulepsz losową umiejętność karty
+Osiągnięcie 12
+Ulepsz kartę 2 poz.
+Osiągnięcie 13
+Ulepsz kartę 3 poz.
+Osiągnięcie 14
+Sprzedaj kartę 1 poz.
+Osiągnięcie 15
+Sprzedaj kartę 2 poz.
+Osiągnięcie 16
+Sprzedaj kartę 3 poz.
+Osiągnięcie 17
+Kup kartę premiowaną
+Osiągnięcie 18
+Kup kartę lidera 2 poz.
+Osiągnięcie 19
+Kup kartę lidera 3 poz.
+Osiągnięcie 20
+Sprzedaj kartę premiowaną
+Osiągnięcie 21
+Redagować talię za Polskę
+Osiągnięcie 22
+Otworzyć talię za ZSRR
+Osiągnięcie 23
+Redagować talię za ZSRR
+Osiągnięcie 24
+Otworzyć talię za Niemcy
+Osiągnięcie 25
+Redagować talię za Niemcy
+Osiągnięcie 26
+3 zwycięstwa na arenie talią Polski
+Osiągnięcie 27
+3 zwycięstwa na arenie talią ZSRR
+Osiągnięcie 28
+3 zwycięstwa na arenie talią Niemiec
+Osiągnięcie 29
+Otrzymaj codzienny bonus
+Osiągnięcie 30
+Podaj swoje imię
+Osiągnięcie 31
+Zarejestruj się
+Osiągnięcie 32
+Otwórz 1 plecak z prowiantem
+Osiągnięcie 33
+Otwórz 10 plecaków z prowiantem
+Osiągnięcie 34
+Otwórz 25 plecaków z prowiantem
+Osiągnięcie 35
+Otwórz 50 plecaków z prowiantem
+Osiągnięcie 36
+Otwórz 100 plecaków z prowiantem
+Osiągnięcie 37
+Otwórz lekki plecak z prowiantem
+Osiągnięcie 38
+Otwórz średni plecak z prowiantem
+Osiągnięcie 39
+Otwórz ciężki plecak z prowiantem
+Osiągnięcie 40
+Aktywuj kod promocyjny
+Osiągnięcie 41
+Zrób zakupy w sklepie
+Osiągnięcie 42
+Walcz na Arenie
+Osiągnięcie 43
+Stocz 3 walki na Arenie
+Osiągnięcie 44
+1 zwycięstwo na Arenie
+Osiągnięcie 45
+3 zwycięstwa na Arenie
+Osiągnięcie 46
+Otrzymaj nagrodę na Arenie
+Osiągnięcie 47
+Dostań się do grupy TOP 100 na Arenie
+Osiągnięcie 48
+Dostań się do grupy TOP 10 na Arenie
+Osiągnięcie 49
+Zajmij 3 miejsce na Arenie
+Osiągnięcie 50
+Zajmij 2 miejsce na Arenie
+Osiągnięcie 51
+Zajmij 1 miejsce na Arenie
+Osiągnięcie 52
+Zdobądź gwiazdę w kampanii
+Osiągnięcie 53
+Przejdź miasto w kampanii za 3 gwiazdy
+Osiągnięcie 54
+Przejdź 3 miasta za 3 gwiazdy
+Osiągnięcie 55
+Przejdź 6 miast za 3 gwiazdy
+Osiągnięcie 56
+Przejdź 13 miast za 3 gwiazdy
+Osiągnięcie 57
+Przejdź 13 miast w kampanii za ZSRR
+Osiągnięcie 58
+Przejdź 13 miast w kampanii za Niemcy
+Osiągnięcie 59
+Utwórz grupę
+Osiągnięcie 60
+Wstąp do grupy
+Osiągnięcie 61
+Walcz na Arenie w grupie
+Osiągnięcie 62
+Wygrana na Arenie w grupie
+Osiągnięcie 63
+1 wygrana w grupie
+Osiągnięcie 64
+Złóż datek do skarbca grupy

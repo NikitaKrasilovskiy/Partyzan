@@ -1,0 +1,128 @@
+Logro 1
+Subir el nivel a 3
+Logro 2
+Subir el nivel a 10
+Logro 3
+Subir el nivel a 25
+Logro 4
+Subir el nivel a 50
+Logro 5
+Subir el nivel a 75
+Logro 6
+Subir el nivel a 101
+Logro 7
+Desbloquear la celda de tarjeta No. 3
+Logro 8
+Desbloquear la celda de tarjeta No. 4
+Logro 9
+Desbloquear la celda de tarjeta No. 5
+Logro 10
+Ensamblar un mazo completo para cualquier nación
+Logro 11
+Subir de nivel una habilidad aleatoria de la tarjeta
+Logro 12
+Subir de nivel la tarjeta a 2
+Logro 13
+Subir de nivel la tarjeta a 3
+Logro 14
+Vender una tarjeta de nivel 1
+Logro 15
+Vender una tarjeta de nivel 2
+Logro 16
+Vender una tarjeta de nivel 3
+Logro 17
+Comprar una tarjeta Premium
+Logro 18
+Comprar una tarjeta de líder nivel 2
+Logro 19
+Comprar una tarjeta de líder nivel 3
+Logro 20
+Vender una tarjeta Premium
+Logro 21
+Editar un mazo para Polonia
+Logro 22
+Desbloquear un mazo para la URSS
+Logro 23
+Editar un mazo para la URSS
+Logro 24
+Desbloquear un mazo para Alemania
+Logro 25
+Editar un mazo para Alemania
+Logro 26
+3 victorias en la Arena con un mazo polaco
+Logro 27
+3 victorias en la Arena con un mazo de la URSS
+Logro 28
+3 victorias en la Arena con un mazo de la Alemania
+Logro 29
+Obtén una bonificación diaria
+Logro 30
+Ingresa tu nombre
+Logro 31
+Registrar
+Logro 32
+Abre 1 mochila con raciones
+Logro 33
+Abre 10 mochilas con raciones
+Logro 34
+Abre 25 mochilas con raciones
+Logro 35
+Abre 50 mochilas con raciones
+Logro 36
+Abre 100 mochilas con raciones
+Logro 37
+Abre una mochila ligera con raciones
+Logro 38
+Abre una mochila mediana con raciones
+Logro 39
+Abre una mochila pesada con raciones
+Logro 40
+Activar un código promocional
+Logro 41
+Hacer una compra en el almacén
+Logro 42
+Lucha en la Arena
+Logro 43
+Lucha 3 batallas en la Arena
+Logro 44
+1 victoria en la Arena
+Logro 45
+3 victorias en la Arena
+Logro 46
+Obtén una recompensa en la Arena
+Logro 47
+Entra en el top 100 en la Arena
+Logro 48
+Entra en el top 10 en la Arena
+Logro 49
+Obtén el 3er lugar en la Arena
+Logro 50
+Obtén el 2do lugar en la Arena
+Logro 51
+Obtén el 1er lugar en la Arena
+Logro 52
+Obtén una estrella en la campaña
+Logro 53
+Completa una ciudad en una campaña con 3 estrellas
+Logro 54
+Completa 3 ciudades con 3 estrellas
+Logro 55
+Completa 6 ciudades con 3 estrellas
+Logro 56
+Completa 13 ciudades con 3 estrellas
+Logro 57
+Completa 13 ciudades en la campaña de la URSS
+Logro 58
+Completa 13 ciudades en la campaña de Alemania
+Logro 59
+Crear un escuadrón
+Logro 60
+Únete a un escuadrón
+Logro 61
+Lucha en la Arena en un escuadrón
+Logro 62
+Victoria en la Arena en un escuadrón
+Logro 63
+1 victoria en un escuadrón
+Logro 64
+Haz una donación a la tesorería del escuadrón

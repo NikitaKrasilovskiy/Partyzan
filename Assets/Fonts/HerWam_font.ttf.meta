@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 862468d114c535d4db52f0700b84e65e
+timeCreated: 1508682407
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: 01_iSMArt_Guerrialls
+  fontNames:
+  - 01_iSMArt_Guerrialls
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

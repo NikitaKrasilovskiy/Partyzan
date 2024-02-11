@@ -1,0 +1,46 @@
+[
+    {
+        "Key": 2,
+        "Value": {
+            "title": [
+                null,
+                null,
+                null
+            ],
+            "description": "",
+            "image": "",
+            "country": 0,
+            "cardDefs": [
+                null,
+                null,
+                null
+            ],
+            "upgradeCost": [
+                null,
+                null
+            ]
+        }
+    },
+    {
+        "Key": 3,
+        "Value": {
+            "title": [
+                null,
+                null,
+                null
+            ],
+            "description": "",
+            "image": "",
+            "country": 0,
+            "cardDefs": [
+                null,
+                null,
+                null
+            ],
+            "upgradeCost": [
+                null,
+                null
+            ]
+        }
+    }
+]

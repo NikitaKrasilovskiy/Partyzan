@@ -1,0 +1,553 @@
+{
+	"disposition": [
+		[
+			{
+				"id": 0,
+				"level": 1,
+				"attack": 0,
+				"hp": 10,
+				"p": 0
+			},
+			{
+				"id": 1,
+				"level": 1,
+				"attack": 3,
+				"hp": 9,
+				"p": 0
+			},
+			{
+				"id": 2,
+				"level": 1,
+				"attack": 2,
+				"hp": 9,
+				"p": 0
+			},
+			{
+				"id": 3,
+				"level": 1,
+				"attack": 4,
+				"hp": 10,
+				"p": 0
+			},
+			{
+				"id": 4,
+				"level": 1,
+				"attack": 3,
+				"hp": 9,
+				"p": 0
+			},
+			{
+				"id": 5,
+				"level": 1,
+				"attack": 4,
+				"hp": 6,
+				"p": 0
+			}
+		],
+		[
+			{
+				"id": 0,
+				"level": 1,
+				"attack": 0,
+				"hp": 10,
+				"p": 0
+			},
+			{
+				"id": 1,
+				"level": 1,
+				"attack": 3,
+				"hp": 9,
+				"p": 0
+			},
+			{
+				"id": 2,
+				"level": 1,
+				"attack": 2,
+				"hp": 9,
+				"p": 0
+			},
+			{
+				"id": 3,
+				"level": 1,
+				"attack": 4,
+				"hp": 10,
+				"p": 0
+			},
+			{
+				"id": 4,
+				"level": 1,
+				"attack": 3,
+				"hp": 9,
+				"p": 0
+			},
+			{
+				"id": 5,
+				"level": 1,
+				"attack": 4,
+				"hp": 6,
+				"p": 0
+			}
+		]
+	],
+	"actions": [
+		{
+			"action": 1,
+			"actorDeck": 1,
+			"actorId": 1,
+			"effects": [
+				{
+					"deck": 2,
+					"id": 1,
+					"attack": 3,
+					"hp": 6,
+					"icon": -1
+				}
+			]
+		},
+		{
+			"action": 1,
+			"actorDeck": 1,
+			"actorId": 2,
+			"effects": [
+				{
+					"deck": 2,
+					"id": 2,
+					"attack": 2,
+					"hp": 7,
+					"icon": -1
+				}
+			]
+		},
+		{
+			"action": 1,
+			"actorDeck": 1,
+			"actorId": 3,
+			"effects": [
+				{
+					"deck": 2,
+					"id": 3,
+					"attack": 4,
+					"hp": 6,
+					"icon": -1
+				}
+			]
+		},
+		{
+			"action": 1,
+			"actorDeck": 1,
+			"actorId": 4,
+			"effects": [
+				{
+					"deck": 2,
+					"id": 4,
+					"attack": 3,
+					"hp": 6,
+					"icon": -1
+				}
+			]
+		},
+		{
+			"action": 1,
+			"actorDeck": 1,
+			"actorId": 5,
+			"effects": [
+				{
+					"deck": 2,
+					"id": 5,
+					"attack": 4,
+					"hp": 2,
+					"icon": -1
+				}
+			]
+		},
+		{
+			"action": 1,
+			"actorDeck": 2,
+			"actorId": 1,
+			"effects": [
+				{
+					"deck": 1,
+					"id": 1,
+					"attack": 3,
+					"hp": 6,
+					"icon": -1
+				}
+			]
+		},
+		{
+			"action": 1,
+			"actorDeck": 2,
+			"actorId": 2,
+			"effects": [
+				{
+					"deck": 1,
+					"id": 2,
+					"attack": 2,
+					"hp": 7,
+					"icon": -1
+				}
+			]
+		},
+		{
+			"action": 1,
+			"actorDeck": 2,
+			"actorId": 3,
+			"effects": [
+				{
+					"deck": 1,
+					"id": 3,
+					"attack": 4,
+					"hp": 6,
+					"icon": -1
+				}
+			]
+		},
+		{
+			"action": 1,
+			"actorDeck": 2,
+			"actorId": 4,
+			"effects": [
+				{
+					"deck": 1,
+					"id": 4,
+					"attack": 3,
+					"hp": 6,
+					"icon": -1
+				}
+			]
+		},
+		{
+			"action": 1,
+			"actorDeck": 2,
+			"actorId": 5,
+			"effects": [
+				{
+					"deck": 1,
+					"id": 5,
+					"attack": 4,
+					"hp": 2,
+					"icon": -1
+				}
+			]
+		},
+		{
+			"action": 1,
+			"actorDeck": 1,
+			"actorId": 1,
+			"effects": [
+				{
+					"deck": 2,
+					"id": 1,
+					"attack": 3,
+					"hp": 3,
+					"icon": -1
+				}
+			]
+		},
+		{
+			"action": 1,
+			"actorDeck": 1,
+			"actorId": 2,
+			"effects": [
+				{
+					"deck": 2,
+					"id": 2,
+					"attack": 2,
+					"hp": 5,
+					"icon": -1
+				}
+			]
+		},
+		{
+			"action": 1,
+			"actorDeck": 1,
+			"actorId": 3,
+			"effects": [
+				{
+					"deck": 2,
+					"id": 3,
+					"attack": 4,
+					"hp": 2,
+					"icon": -1
+				}
+			]
+		},
+		{
+			"action": 1,
+			"actorDeck": 1,
+			"actorId": 4,
+			"effects": [
+				{
+					"deck": 2,
+					"id": 4,
+					"attack": 3,
+					"hp": 3,
+					"icon": -1
+				}
+			]
+		},
+		{
+			"action": 1,
+			"actorDeck": 1,
+			"actorId": 5,
+			"effects": [
+				{
+					"deck": 2,
+					"id": 5,
+					"attack": 4,
+					"hp": -2,
+					"icon": -1
+				}
+			]
+		},
+		{
+			"action": 2,
+			"actorDeck": 2,
+			"actorId": 5,
+			"effects": []
+		},
+		{
+			"action": 1,
+			"actorDeck": 2,
+			"actorId": 1,
+			"effects": [
+				{
+					"deck": 1,
+					"id": 1,
+					"attack": 3,
+					"hp": 3,
+					"icon": -1
+				}
+			]
+		},
+		{
+			"action": 1,
+			"actorDeck": 2,
+			"actorId": 2,
+			"effects": [
+				{
+					"deck": 1,
+					"id": 2,
+					"attack": 2,
+					"hp": 5,
+					"icon": -1
+				}
+			]
+		},
+		{
+			"action": 1,
+			"actorDeck": 2,
+			"actorId": 3,
+			"effects": [
+				{
+					"deck": 1,
+					"id": 3,
+					"attack": 4,
+					"hp": 2,
+					"icon": -1
+				}
+			]
+		},
+		{
+			"action": 1,
+			"actorDeck": 2,
+			"actorId": 4,
+			"effects": [
+				{
+					"deck": 1,
+					"id": 4,
+					"attack": 3,
+					"hp": 3,
+					"icon": -1
+				}
+			]
+		},
+		{
+			"action": 1,
+			"actorDeck": 1,
+			"actorId": 1,
+			"effects": [
+				{
+					"deck": 2,
+					"id": 1,
+					"attack": 3,
+					"hp": 0,
+					"icon": -1
+				}
+			]
+		},
+		{
+			"action": 2,
+			"actorDeck": 2,
+			"actorId": 1,
+			"effects": []
+		},
+		{
+			"action": 1,
+			"actorDeck": 1,
+			"actorId": 2,
+			"effects": [
+				{
+					"deck": 2,
+					"id": 2,
+					"attack": 2,
+					"hp": 3,
+					"icon": -1
+				}
+			]
+		},
+		{
+			"action": 1,
+			"actorDeck": 1,
+			"actorId": 3,
+			"effects": [
+				{
+					"deck": 2,
+					"id": 3,
+					"attack": 4,
+					"hp": -2,
+					"icon": -1
+				}
+			]
+		},
+		{
+			"action": 2,
+			"actorDeck": 2,
+			"actorId": 3,
+			"effects": []
+		},
+		{
+			"action": 1,
+			"actorDeck": 1,
+			"actorId": 4,
+			"effects": [
+				{
+					"deck": 2,
+					"id": 4,
+					"attack": 3,
+					"hp": 0,
+					"icon": -1
+				}
+			]
+		},
+		{
+			"action": 2,
+			"actorDeck": 2,
+			"actorId": 4,
+			"effects": []
+		},
+		{
+			"action": 1,
+			"actorDeck": 1,
+			"actorId": 5,
+			"effects": [
+				{
+					"deck": 2,
+					"id": 0,
+					"attack": 0,
+					"hp": 6,
+					"icon": -1
+				}
+			]
+		},
+		{
+			"action": 1,
+			"actorDeck": 2,
+			"actorId": 1,
+			"effects": [
+				{
+					"deck": 1,
+					"id": 1,
+					"attack": 3,
+					"hp": 1,
+					"icon": -1
+				}
+			]
+		},
+		{
+			"action": 1,
+			"actorDeck": 1,
+			"actorId": 1,
+			"effects": [
+				{
+					"deck": 2,
+					"id": 1,
+					"attack": 2,
+					"hp": 0,
+					"icon": -1
+				}
+			]
+		},
+		{
+			"action": 2,
+			"actorDeck": 2,
+			"actorId": 1,
+			"effects": []
+		},
+		{
+			"action": 1,
+			"actorDeck": 1,
+			"actorId": 2,
+			"effects": [
+				{
+					"deck": 2,
+					"id": 0,
+					"attack": 0,
+					"hp": 4,
+					"icon": -1
+				}
+			]
+		},
+		{
+			"action": 1,
+			"actorDeck": 1,
+			"actorId": 3,
+			"effects": [
+				{
+					"deck": 2,
+					"id": 0,
+					"attack": 0,
+					"hp": 0,
+					"icon": -1
+				}
+			]
+		},
+		{
+			"action": 2,
+			"actorDeck": 2,
+			"actorId": 0,
+			"effects": []
+		},
+		{
+			"action": 3,
+			"actorDeck": 2,
+			"actorId": 0,
+			"effects": []
+		}
+	],
+	"remainBattles": 0,
+	"stars": 0,
+	"total_wins": 68,
+	"total_fails": 0,
+	"arenaDropMoment": 1583874000,
+	"lastBattleMoment": 1583839146,
+	"todayBattles": 68,
+	"profileResult": {
+		"result": 0,
+		"backpacks": 2,
+		"backpacks2": 0,
+		"backpacks3": 0,
+		"gold": 380,
+		"exp": 1400,
+		"boosters": 0,
+		"level": 7,
+		"reward": [],
+		"proTimeout": 0,
+		"remainBackpacks": 0,
+		"cards": [],
+		"deltaGold": 0,
+		"deltaExp": 300,
+		"deltaPremium": 0,
+		"needExp": 6300
+	}
+}

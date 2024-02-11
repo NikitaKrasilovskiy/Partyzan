@@ -1,0 +1,128 @@
+Réalisation 1
+Atteindre le niveau 3
+Réalisation 2
+Atteindre le niveau 10
+Réalisation 3
+Atteindre le niveau 25
+Réalisation 4
+Atteindre le niveau 50
+Réalisation 5
+Atteindre le niveau 75
+Réalisation 6
+Atteindre le niveau 101
+Réalisation 7
+Débloquer le créneau de carte No 3
+Réalisation 8
+Débloquer le créneau de carte No 4
+Réalisation 9
+Débloquer le créneau de carte No 5
+Réalisation 10
+Réunir un deck complet pour n'importe quelle nation
+Réalisation 11
+Faire monter en niveau une compétence aléatoire d'une carte
+Réalisation 12
+Faire évoluer une carte jusqu'au niveau 2
+Réalisation 13
+Faire évoluer une carte jusqu'au niveau 3
+Réalisation 14
+Vendre une carte de niveau 1
+Réalisation 15
+Vendre une carte de niveau 2
+Réalisation 16
+Vendre une carte de niveau 3
+Réalisation 17
+Acheter une carte Premium
+Réalisation 18
+Vendre une carte de commandant de niveau 2
+Réalisation 19
+Vendre une carte de commandant de niveau 3
+Réalisation 20
+Vendre une carte Premium
+Réalisation 21
+Modifier un deck pour la Pologne
+Réalisation 22
+Débloquer un deck pour l'URSS
+Réalisation 23
+Modifier un deck pour l'URSS
+Réalisation 24
+Débloquer un deck pour l'Allemagne
+Réalisation 25
+Modifier un deck pour l'Allemagne
+Réalisation 26
+3 victoires dans l'arène avec un deck polonais
+Réalisation 27
+3 victoires dans l'arène avec un deck russe
+Réalisation 28
+3 victoires dans l'arène avec un deck allemand
+Réalisation 29
+Obtenir un bonus journalier
+Réalisation 30
+Entrer votre nom
+Réalisation 31
+S'inscrire
+Réalisation 32
+Ouvrir 1 sac à dos contenant des rations
+Réalisation 33
+Ouvrir 10 sacs à dos contenant des rations
+Réalisation 34
+Ouvrir 25 sacs à dos contenant des rations
+Réalisation 35
+Ouvrir 50 sacs à dos contenant des rations
+Réalisation 36
+Ouvrir 100 sacs à dos contenant des rations
+Réalisation 37
+Ouvrir un sac à dos léger contenant des rations
+Réalisation 38
+Ouvrir un sac à dos moyen contenant des rations
+Réalisation 39
+Ouvrir un sac à dos lourd contenant des rations
+Réalisation 40
+Activer un code promo
+Réalisation 41
+Effectuer un achat au magasin
+Réalisation 42
+Combattre dans l'arène
+Réalisation 43
+Disputer 3 batailles dans l'arène
+Réalisation 44
+1 victoire dans l'arène
+Réalisation 45
+3 victoires dans l'arène
+Réalisation 46
+Obtenir une récompense dans l'arène
+Réalisation 47
+Se classer dans le Top 100 de l'arène
+Réalisation 48
+Se classer dans le Top 10 de l'arène
+Réalisation 49
+Atteindre la 3e place du classement de l'arène
+Réalisation 50
+Atteindre la 2e place du classement de l'arène
+Réalisation 51
+Atteindre la 1re place du classement de l'arène
+Réalisation 52
+Obtenir une étoile dans une campagne
+Réalisation 53
+Terminer une ville dans une campagne avec 3 étoiles
+Réalisation 54
+Terminer 3 villes avec 3 étoiles
+Réalisation 55
+Terminer 6 villes avec 3 étoiles
+Réalisation 56
+Terminer 13 villes avec 3 étoiles
+Réalisation 57
+Terminer 13 villes dans la campagne URSS
+Réalisation 58
+Terminer 13 villes dans la campagne Allemagne
+Réalisation 59
+Créer une escouade
+Réalisation 60
+Rejoindre une escouade
+Réalisation 61
+Combattre dans l'arène au sein d'une escouade
+Réalisation 62
+Victoire dans l'arène au sein d'une escouade
+Réalisation 63
+1 victoire au sein d'une escouade
+Réalisation 64
+Faire un don à la trésorerie de l'escouade

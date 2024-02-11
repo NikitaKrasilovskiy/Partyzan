@@ -1,0 +1,63 @@
+Erreiche Level 3
+Erreiche Level 10
+Erreiche Level 25
+Erreiche Level 50
+Erreiche Level 75
+Erreiche Level 101
+Schalte Kartenzelle Nr. 3 frei
+Schalte Kartenzelle Nr. 4 frei
+Schalte Kartenzelle Nr. 5 frei
+Stelle ein volles Deck für jede Nation zusammen
+Verbessere eine zufällige Fähigkeit einer Karte
+Verbessere eine Karte auf Level 2
+Verbessere eine Karte auf Level 3
+Verkaufe eine Karte mit Level 1
+Verkaufe eine Karte mit Level 2
+Verkaufe eine Karte mit Level 3
+Kaufe eine Premium-Karte
+Kaufe eine Anführer-Karte mit Level 2
+Kaufe eine Anführer-Karte mit Level 3
+Verkaufe eine Premium-Karte
+Bearbeite ein Deck für Polen
+Schalte ein Deck für die UdSSR frei
+Bearbeite ein Deck für die UdSSR
+Schalte ein Deck für Deutschland frei
+Bearbeite ein Deck für Deutschland
+3 Siege in der Arena mit einem polnischen Deck
+3 Siege in der Arena mit einem UdSSR-Deck
+3 Siege in der Arena mit einem deutschen Deck
+Hol dir einen täglichen Bonus
+Gib deinen Namen ein
+Registriere dich
+Öffne 1 Rucksack mit Rationen
+Öffne 10 Rucksäcke mit Rationen
+Öffne 25 Rucksäcke mit Rationen
+Öffne 50 Rucksäcke mit Rationen
+Öffne 100 Rucksäcke mit Rationen
+Öffne einen leichten Rucksack mit Rationen
+Öffne einen mittleren Rucksack mit Rationen
+Öffne einen schweren Rucksack mit Rationen
+Aktiviere einen Gutscheincode
+Tätige einen Kauf im Laden
+Kämpfe in der Arena
+Kämpfe 3 Gefechte in der Arena
+1 Sieg in der Arena
+3 Siege in der Arena
+Hol dir eine Belohnung in der Arena
+Lande in der Arena unter den besten 100
+Lande in der Arena unter den besten 10
+Erreiche in der Arena den 3. Platz
+Erreiche in der Arena den 2. Platz
+Erreiche in der Arena den 1. Platz
+Hol dir einen Stern in einer Kampagne
+Schließe eine Stadt in einer Kampagne mit 3 Sternen ab
+Schließe 3 Städte mit 3 Sternen ab
+Schließe 6 Städte mit 3 Sternen ab
+Schließe 13 Städte mit 3 Sternen ab
+Schließe 13 Städte in der UdSSR-Kampagne ab
+Schließe 13 Städte in der Deutschland-Kampagne ab
+Erstelle eine Truppe
+Tritt einer Truppe bei
+Kämpfe in der Arena in einer Truppe
+Sieg in der Arena in einer Truppe
+1 Sieg in einer Tru

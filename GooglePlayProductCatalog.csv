@@ -1,0 +1,12 @@
+Product ID,Published State,Purchase Type,Auto Translate,Locale; Title; Description,Auto Fill Prices,Price,Pricing Template ID
+pack6_gold_coins_google,published,managed_by_android,false,en_US;Gold Coins;Gold Coins,true,1000000,
+1000_gold_coins_google,published,managed_by_android,false,en_US;Gold Coins;Gold Coins,true,1000000,
+disable_ads_short_google,published,managed_by_android,false,en_US;Disable Ads;Disable Ads,true,1000000,
+pack4_gold_coins_google,published,managed_by_android,false,en_US;Gold Coins;Gold Coins,true,1000000,
+pack5_gold_coins_google,published,managed_by_android,false,en_US;Gold Coins;Gold Coins,true,1000000,
+disable_ads_long_google,published,managed_by_android,false,en_US;Disable Ads;Disable Ads,true,1000000,
+starter_pack_google,published,managed_by_android,false,en_US;Starter Pack;Starter Pack,true,1000000,
+350_gold_coins_google,published,managed_by_android,false,en_US;Gold Coins;Gold Coins,true,1000000,
+50_gold_coins_google,published,managed_by_android,false,en_US;Gold Coins;Gold Coins,true,1000000,
+disable_ads_short_sub,published,managed_by_android,false,en_US;Disable Ads;Disable Ads,true,1000000,
+disable_ads_long_sub,published,managed_by_android,false,en_US;Disable Ads;Disable Ads,true,1000000,

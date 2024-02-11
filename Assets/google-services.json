@@ -1,0 +1,346 @@
+{
+  "project_info": {
+    "project_number": "738882303123",
+    "firebase_url": "https://lullabies-c1cf3.firebaseio.com",
+    "project_id": "lullabies-c1cf3",
+    "storage_bucket": "lullabies-c1cf3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738882303123:android:ac19ab46ed23b0e353c966",
+        "android_client_info": {
+          "package_name": "com.TWOBSOFT.ArgyBargyCraft.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "738882303123-p8ctr4lcvipr00dui11uilnifi7o6g39.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaa18B56o7a57fnPQm37G1vnfy72Ylgys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "738882303123-p8ctr4lcvipr00dui11uilnifi7o6g39.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "738882303123-4p19rdl555oqhh1ket4in1lqdiqns24v.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.TWOBSOFT.ChristmasLullabies",
+                "app_store_id": "1596443885"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738882303123:android:f1fd90c0cf0d573753c966",
+        "android_client_info": {
+          "package_name": "com.TWOBSOFT.ArgyBargyLegend"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "738882303123-p8ctr4lcvipr00dui11uilnifi7o6g39.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaa18B56o7a57fnPQm37G1vnfy72Ylgys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "738882303123-p8ctr4lcvipr00dui11uilnifi7o6g39.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "738882303123-4p19rdl555oqhh1ket4in1lqdiqns24v.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.TWOBSOFT.ChristmasLullabies",
+                "app_store_id": "1596443885"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738882303123:android:5883ba084831e74253c966",
+        "android_client_info": {
+          "package_name": "com.TWOBSOFT.ChristmasLullabies"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "738882303123-p8ctr4lcvipr00dui11uilnifi7o6g39.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaa18B56o7a57fnPQm37G1vnfy72Ylgys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "738882303123-p8ctr4lcvipr00dui11uilnifi7o6g39.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "738882303123-4p19rdl555oqhh1ket4in1lqdiqns24v.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.TWOBSOFT.ChristmasLullabies",
+                "app_store_id": "1596443885"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738882303123:android:d2f7f864ccd2c70b53c966",
+        "android_client_info": {
+          "package_name": "com.TWOBSOFT.StarleesLife"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "738882303123-p8ctr4lcvipr00dui11uilnifi7o6g39.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaa18B56o7a57fnPQm37G1vnfy72Ylgys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "738882303123-p8ctr4lcvipr00dui11uilnifi7o6g39.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "738882303123-4p19rdl555oqhh1ket4in1lqdiqns24v.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.TWOBSOFT.ChristmasLullabies",
+                "app_store_id": "1596443885"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738882303123:android:610301848946aa0b",
+        "android_client_info": {
+          "package_name": "com.babyrelaxchannel.lullabies"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "738882303123-p8ctr4lcvipr00dui11uilnifi7o6g39.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaa18B56o7a57fnPQm37G1vnfy72Ylgys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "738882303123-p8ctr4lcvipr00dui11uilnifi7o6g39.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "738882303123-4p19rdl555oqhh1ket4in1lqdiqns24v.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.TWOBSOFT.ChristmasLullabies",
+                "app_store_id": "1596443885"
+              }
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-5853277310445367~8475605919"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738882303123:android:e4d661fe12335414",
+        "android_client_info": {
+          "package_name": "com.babyrelaxchannel.lullabies2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "738882303123-p8ctr4lcvipr00dui11uilnifi7o6g39.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaa18B56o7a57fnPQm37G1vnfy72Ylgys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "738882303123-p8ctr4lcvipr00dui11uilnifi7o6g39.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "738882303123-4p19rdl555oqhh1ket4in1lqdiqns24v.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.TWOBSOFT.ChristmasLullabies",
+                "app_store_id": "1596443885"
+              }
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-5853277310445367~8698936651"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738882303123:android:6deeb1ad6bda92ab53c966",
+        "android_client_info": {
+          "package_name": "com.babyrelaxchannel.lullabies3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "738882303123-p8ctr4lcvipr00dui11uilnifi7o6g39.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaa18B56o7a57fnPQm37G1vnfy72Ylgys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "738882303123-p8ctr4lcvipr00dui11uilnifi7o6g39.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "738882303123-4p19rdl555oqhh1ket4in1lqdiqns24v.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.TWOBSOFT.ChristmasLullabies",
+                "app_store_id": "1596443885"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738882303123:android:21b289024dc33ed253c966",
+        "android_client_info": {
+          "package_name": "com.babyrelaxchannel.lullabies4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "738882303123-p8ctr4lcvipr00dui11uilnifi7o6g39.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaa18B56o7a57fnPQm37G1vnfy72Ylgys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "738882303123-p8ctr4lcvipr00dui11uilnifi7o6g39.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "738882303123-4p19rdl555oqhh1ket4in1lqdiqns24v.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.TWOBSOFT.ChristmasLullabies",
+                "app_store_id": "1596443885"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738882303123:android:9ef892a0a55ab89653c966",
+        "android_client_info": {
+          "package_name": "com.oci.herwamoriginal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "738882303123-p8ctr4lcvipr00dui11uilnifi7o6g39.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaa18B56o7a57fnPQm37G1vnfy72Ylgys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "738882303123-p8ctr4lcvipr00dui11uilnifi7o6g39.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "738882303123-4p19rdl555oqhh1ket4in1lqdiqns24v.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.TWOBSOFT.ChristmasLullabies",
+                "app_store_id": "1596443885"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

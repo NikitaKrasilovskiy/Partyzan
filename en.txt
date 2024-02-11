@@ -1,0 +1,128 @@
+Achievement 1
+Raise level to 3
+Achievement 2
+Raise level to 10
+Achievement 3
+Raise level to 25
+Achievement 4
+Raise level to 50
+Achievement 5
+Raise level to 75
+Achievement 6
+Raise level to 101
+Achievement 7
+Unlock card cell No. 3
+Achievement 8
+Unlock card cell No. 4
+Achievement 9
+Unlock card cell No. 5
+Achievement 10
+Assemble a full deck for any nation
+Achievement 11
+Level up a card’s random ability
+Achievement 12
+Level up a card to 2
+Achievement 13
+Level up a card to 3
+Achievement 14
+Sell a level 1 card
+Achievement 15
+Sell a level 2 card
+Achievement 16
+Sell a level 3 card
+Achievement 17
+Buy a premium card
+Achievement 18
+Buy a level 2 leader card
+Achievement 19
+Buy a level 3 leader card
+Achievement 20
+Sell a premium card
+Achievement 21
+Edit a deck for Poland
+Achievement 22
+Unlock a deck for the USSR
+Achievement 23
+Edit a deck for the USSR
+Achievement 24
+Unlock a deck for Germany
+Achievement 25
+Edit a deck for Germany
+Achievement 26
+3 victory at the Arena with a Polish deck
+Achievement 27
+3 victory at the Arena with a USSR deck
+Achievement 28
+3 victory at the Arena with a German deck
+Achievement 29
+Get a daily bonus
+Achievement 30
+Enter your name
+Achievement 31
+Register
+Achievement 32
+Open 1 backpack with rations
+Achievement 33
+Open 10 backpacks with rations
+Achievement 34
+Open 25 backpacks with rations
+Achievement 35
+Open 50 backpacks with rations
+Achievement 36
+Open 100 backpacks with rations
+Achievement 37
+Open a light backpack with rations
+Achievement 38
+Open a medium backpack with rations
+Achievement 39
+Open a heavy backpack with rations
+Achievement 40
+Activate a promocode
+Achievement 41
+Make a purchase in the store
+Achievement 42
+Fight at the Arena
+Achievement 43
+Fight 3 battles at the Arena
+Achievement 44
+1 victory at the Arena
+Achievement 45
+3 victories at the Arena
+Achievement 46
+Get a reward at the Arena
+Achievement 47
+Get into the top 100 at the Arena
+Achievement 48
+Get into the top 10 at the Arena
+Achievement 49
+Take 3rd place at the Arena
+Achievement 50
+Take 2nd place at the Arena
+Achievement 51
+Take 1st place at the Arena
+Achievement 52
+Get a star in a campaign
+Achievement 53
+Complete a city in a campaign with 3 stars
+Achievement 54
+Complete 3 cities with 3 stars
+Achievement 55
+Complete 6 cities with 3 stars
+Achievement 56
+Complete 13 cities with 3 stars
+Achievement 57
+Complete 13 cities in the USSR campaign
+Achievement 58
+Complete 13 cities in the Germany campaign
+Achievement 59
+Create a squad
+Achievement 60
+Join a squad
+Achievement 61
+Fight at the Arena in a squad
+Achievement 62
+Victory at the Arena in a squad
+Achievement 63
+1 victory in a squad
+Achievement 64
+Make a donation to the squad treasury

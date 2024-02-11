@@ -1,0 +1,128 @@
+Raggiungimento 1
+Aumenta al livello 3
+Raggiungimento 2
+Aumenta al livello 10
+Raggiungimento 3
+Aumenta al livello 25
+Raggiungimento 4
+Aumenta al livello 50
+Raggiungimento 5
+Aumenta al livello 75
+Raggiungimento 6
+Aumenta al livello 101
+Raggiungimento 7
+Sblocca slot carta n. 3
+Raggiungimento 8
+Sblocca slot carta n. 4
+Raggiungimento 9
+Sblocca slot carta n. 5
+Raggiungimento 10
+Componi un mazzo intero per ciascuna nazione
+Raggiungimento 11
+Aumenta il livello dell'abilità casuale di una carta
+Raggiungimento 12
+Aumenta una carta al liv. 2
+Raggiungimento 13
+Aumenta una carta al liv. 3
+Raggiungimento 14
+Vendi una carta liv. 1
+Raggiungimento 15
+Vendi una carta liv. 2
+Raggiungimento 16
+Vendi una carta liv. 3
+Raggiungimento 17
+Compra una carta premium
+Raggiungimento 18
+Compra una carta comandante liv. 2
+Raggiungimento 19
+Compra una carta comandante liv. 3
+Raggiungimento 20
+Vendi una carta premium
+Raggiungimento 21
+Modifica un mazzo per la Polonia
+Raggiungimento 22
+Sblocca un mazzo per l'URSS
+Raggiungimento 23
+Modifica un mazzo per l'URSS
+Raggiungimento 24
+Sblocca un mazzo per la Germania
+Raggiungimento 25
+Modifica un mazzo per la Germania
+Raggiungimento 26
+3 vittorie nell'Arena con un mazzo della Polonia
+Raggiungimento 27
+3 vittorie nell'Arena con un mazzo dell'URSS
+Raggiungimento 28
+3 vittorie nell'Arena con un mazzo della Germania
+Raggiungimento 29
+Ricevi un bonus giornaliero
+Raggiungimento 30
+Inserisci il tuo nome
+Raggiungimento 31
+Registrati
+Raggiungimento 32
+Apri 1 zaino con scorte
+Raggiungimento 33
+Apri 10 zaini con scorte
+Raggiungimento 34
+Apri 25 zaini con scorte
+Raggiungimento 35
+Apri 50 zaini con scorte
+Raggiungimento 36
+Apri 100 zaini con scorte
+Raggiungimento 37
+Apri 1 zaino leggero con scorte
+Raggiungimento 38
+Apri 1 zaino medio con scorte
+Raggiungimento 39
+Apri 1 zaino pesante con scorte
+Raggiungimento 40
+Attiva un coupon
+Raggiungimento 41
+Acquista qualcosa nel negozio
+Raggiungimento 42
+Combatti nell'Arena
+Raggiungimento 43
+Combatti 3 volte nell'Arena
+Raggiungimento 44
+1 vittoria nell'Arena
+Raggiungimento 45
+3 vittorie nell'Arena
+Raggiungimento 46
+Ottieni un premio nell'Arena
+Raggiungimento 47
+Arriva tra i primi 100 nell'Arena
+Raggiungimento 48
+Arriva tra i primi 10 nell'Arena
+Raggiungimento 49
+Arriva al 3° posto nell'Arena
+Raggiungimento 50
+Arriva al 2° posto nell'Arena
+Raggiungimento 51
+Arriva al 1° posto nell'Arena
+Raggiungimento 52
+Ottieni una stella in una campagna
+Raggiungimento 53
+Completa una città in una campagna con 3 stelle
+Raggiungimento 54
+Completa 3 città con 3 stelle
+Raggiungimento 55
+Completa 6 città con 3 stelle
+Raggiungimento 56
+Completa 13 città con 3 stelle
+Raggiungimento 57
+Completa 13 città nella campagna dell'URSS
+Raggiungimento 58
+Completa 13 città nella campagna della Germania
+Raggiungimento 59
+Crea una truppa
+Raggiungimento 60
+Entra in una truppa
+Raggiungimento 61
+Combatti nell'Arena con una truppa
+Raggiungimento 62
+Vinci nell'Arena con una truppa
+Raggiungimento 63
+1 vittoria con una truppa
+Raggiungimento 64
+Fai una donazione alla cassa della truppa
